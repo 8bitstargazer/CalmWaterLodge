@@ -11,8 +11,5 @@ Simply drag all 8 of the mod zip files above into the Vintage Story Mod folder(d
 
 Your done, restart Vintage Story & connect!
 
-All of the files simply need to be downloaded into the following folder:
-C:\Users\(Username)\AppData\Roaming\VintagestoryData\Mods
-
 Here is the main link on mods:
 https://wiki.vintagestory.at/index.php?title=Adding_mods
