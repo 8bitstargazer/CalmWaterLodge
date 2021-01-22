@@ -1,5 +1,7 @@
 # CalmWaterLodge
 
+To Install:
+
 Open Vintage Story, Click "Mod Manager" then click "Open Mod Folder".
 
 Click the above Code button on this page & click download to zip. 
